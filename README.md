@@ -1,4 +1,4 @@
-# Clippy
+# Clippy 📋
 
 ## Overview
 
